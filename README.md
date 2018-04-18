@@ -1,5 +1,6 @@
 # VOLcAN-Programming-Language
 A parodic programming language for propositional calculus with fully typed lex and yacc.
+Developed by:E. Batuhan Kaynak(https://github.com/ebatuhankaynak), Deniz Sipahioğlu(https://github.com/dsipahioglu), Alper Şahıstan
 
 **The example program is given below:**
 _$tanumlarimizu ha buraya yazayruz$_
